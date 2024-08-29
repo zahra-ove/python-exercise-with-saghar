@@ -1,0 +1,12 @@
+1. passing variable number of arguments to a function:
+	- by using **args   ---> save_user(id=1, name='zizi')
+	
+2. static typed vs dynamic typed languages
+	
+3. What are mutable and immutable objects in Python?
+	Mutable objects in Python are those that can be changed after they are created, like lists or dictionaries. 
+	Immutable objects, on the other hand, cannot be changed after they are created, such as strings, integers, or tuples.
+link: https://ioflood.com/blog/mutable-vs-immutable-in-python-object-data-types-explained/#:~:text=TL%3BDR%3A%20What%20are%20mutable,strings%2C%20integers%2C%20or%20tuples.
+
+
+4. three different type of function/modules
